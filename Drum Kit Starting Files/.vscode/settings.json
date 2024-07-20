@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.fullReload": true
+}
